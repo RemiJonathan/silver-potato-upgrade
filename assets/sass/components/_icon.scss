@@ -1,0 +1,17 @@
+///
+/// Indivisible by RemiJonathan
+/// remiJonathan.com | hello@remiJonathan.com
+/// License: remiJonathan.com/license
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		border-bottom: none;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+	}
