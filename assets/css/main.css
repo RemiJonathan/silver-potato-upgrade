@@ -147,7 +147,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #a749ff !important;
+			color: #CDB28A !important;
 			border-bottom-color: transparent;
 		}
 
@@ -462,8 +462,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #a749ff;
-			box-shadow: 0 0 0 1px #a749ff;
+			border-color: #CDB28A;
+			box-shadow: 0 0 0 1px #CDB28A;
 		}
 
 	select {
@@ -569,8 +569,8 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #a749ff;
-			box-shadow: 0 0 0 1px #a749ff;
+			border-color: #CDB28A;
+			box-shadow: 0 0 0 1px #CDB28A;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -1045,7 +1045,7 @@ input, select, textarea {
 				-webkit-transition: opacity 0.2s ease;
 				-ms-transition: opacity 0.2s ease;
 				transition: opacity 0.2s ease;
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='112px' height='96px' viewBox='0 0 112 96' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23a749ff%3B stroke-width: 4px %7D%3C/style%3E%3Cline x1='0' y1='46' x2='112' y2='46' /%3E%3Cline x1='24' y1='22' x2='0' y2='46' /%3E%3Cline x1='24' y1='70' x2='0' y2='46' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='112px' height='96px' viewBox='0 0 112 96' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23CDB28A%3B stroke-width: 4px %7D%3C/style%3E%3Cline x1='0' y1='46' x2='112' y2='46' /%3E%3Cline x1='24' y1='22' x2='0' y2='46' /%3E%3Cline x1='24' y1='70' x2='0' y2='46' /%3E%3C/svg%3E");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
@@ -1117,8 +1117,8 @@ input, select, textarea {
 		button.active,
 		.button:hover,
 		.button.active {
-			box-shadow: inset 0 0 0 1px #a749ff;
-			color: #a749ff !important;
+			box-shadow: inset 0 0 0 1px #CDB28A;
+			color: #CDB28A !important;
 		}
 
 		input[type="submit"]:active, input[type="submit"].active,
@@ -1148,7 +1148,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #a749ff;
+				background-color: #CDB28A;
 			}
 
 			input[type="submit"].primary:active,
@@ -1156,7 +1156,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #16b9ff;
+				background-color: #f8e4cb;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
