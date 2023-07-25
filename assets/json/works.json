@@ -1,0 +1,13 @@
+[
+  {
+  "id": "work_2",
+  "title": "Example 2",
+  "imageSrc": "images/works/2",
+  "altText": "alt",
+  "shortDescription": "short_description",
+    "description": "description",
+    "link": "#works_2",
+    "linkText": "More info",
+    "tags": ["tag1", "tag2"]
+}
+]
