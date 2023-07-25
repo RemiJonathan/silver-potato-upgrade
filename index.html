@@ -436,9 +436,13 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 <script src="assets/js/breakpoints.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/scripts.js"></script>
 <script>
     //Assign current year to copyright span
     document.getElementById('year').innerHTML = new Date().getFullYear().toString();
+
+    //Retrieve JSON content and store in works section
+    retrieveJSONContent('assets/json/works.json');
 </script>
 
 </body>
