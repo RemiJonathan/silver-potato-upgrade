@@ -15,6 +15,7 @@ function fillWorksList(json) {
         const workImage = document.createElement("img");
         workImage.src = work.imageSrc;
         workImage.alt = work.altText;
+        workImage.style.width = "100%";
 
         const workShortDescription = document.createElement("p");
         workShortDescription.textContent = work.shortDescription;

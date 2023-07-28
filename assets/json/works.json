@@ -1,13 +1,15 @@
 [
   {
-  "id": "work_2",
-  "title": "Example 2",
-  "imageSrc": "images/works/2",
-  "altText": "alt",
-  "shortDescription": "short_description",
+    "title": "SweatScout - Your Fitness Companion!",
+    "imageSrc": "images/works/works_exercise.svg",
+    "altText": "exercise selection web app logo",
+    "shortDescription": "Unleash your fitness potential with SweatScout, the ultimate exercise finder. Find the perfect workouts tailored to your needs, whether you're into cardio, weightlifting, or strength training. With a user-friendly interface and a vast exercise database, SweatScout guides you towards your goals, no matter your fitness level.",
     "description": "description",
-    "link": "#works_2",
-    "linkText": "More info",
-    "tags": ["tag1", "tag2"]
-}
+    "link": "./SweatScout",
+    "linkText": "Demo",
+    "tags": [
+      "tag1",
+      "tag2"
+    ]
+  }
 ]
